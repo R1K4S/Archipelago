@@ -1,0 +1,7 @@
+Running test_accessibility_corrections_minimal_bug (test.general.test_bug_fix.TestFillBugSimplified)
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+
+

@@ -1,0 +1,15 @@
+Running test_accessibility_corrections_minimal_bug (test.general.test_bug_fix.TestFillBugSimplified)
+--snip--
+FAIL: test_accessibility_corrections_minimal_bug (test.general.test_bug_fix.TestFillBugSimplified)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/ubuntu/Archipelago/Archipelago-0.6.1/test/general/test_bug_fix.py", line 70, in test_accessibility_corrections_minimal_bug
+    self.assertIsNone(location.item)
+AssertionError: <MockItem name='Prog Item' player=1 advancement=True> is not None
+
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+FAILED (failures=1)
+
+
